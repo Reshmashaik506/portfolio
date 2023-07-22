@@ -5,3 +5,4 @@
 ![card-1](https://github.com/Reshmashaik506/portfolio/assets/109503095/54b1a1b8-85b4-47b3-89e4-7c1c50ae9da9)
 ![facebook](https://github.com/Reshmashaik506/portfolio/assets/109503095/29c1b12d-71f6-4592-80a3-449d3e58e1bf)
 ![twitter](https://github.com/Reshmashaik506/portfolio/assets/109503095/937d9e87-1d14-4123-8965-a45e59dd5a4e)
+![linkedin](https://github.com/Reshmashaik506/portfolio/assets/109503095/3f82fb11-52a9-4935-ac1d-be7634ff6758)
