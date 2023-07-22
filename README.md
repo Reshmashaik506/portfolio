@@ -8,3 +8,4 @@
 ![linkedin](https://github.com/Reshmashaik506/portfolio/assets/109503095/3f82fb11-52a9-4935-ac1d-be7634ff6758)
 ![filetype-html](https://github.com/Reshmashaik506/portfolio/assets/109503095/8f5aa169-e5ce-43cc-98d6-b30b2fa1fbfa)
 ![filetype-css](https://github.com/Reshmashaik506/portfolio/assets/109503095/531a69f6-4119-4290-9f92-e17178edce24)
+![android-chrome-512x512](https://github.com/Reshmashaik506/portfolio/assets/109503095/02dcefba-361b-4a8c-b017-98f0a660fdc3)
